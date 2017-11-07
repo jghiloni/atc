@@ -1,5 +1,5 @@
 GIT
-  remote: git://github.com/topherbullock/selenium-gemspec.git
+  remote: https://github.com/topherbullock/selenium-gemspec.git
   revision: aadfb44f241fff415495c8084a795db04aed2efa
   branch: gemspec
   specs:
